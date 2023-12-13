@@ -1,1 +1,1 @@
-servermotisa.westeurope.cloudapp.azure.com
+servermotisa.westeurope.cloudapp.azure.com/
